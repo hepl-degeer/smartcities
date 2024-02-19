@@ -59,7 +59,7 @@ while True:
     N()
     utime.sleep(0.01)
 ```
-Remarque : Les Bonus ne sont présents dans le code. 
+Remarque : Les Bonus ne sont pas présents dans le code. 
 
 #Vidéo démonstration:
 
