@@ -103,5 +103,8 @@ Le Loop est assez simple, "y" est la conversion linéaire du potentiomètre pour
         ALARM()
 ```
 
+#Vidéo:
+
+https://github.com/hepl-degeer/smartcities/assets/159243839/529f9e38-019e-44a3-9ebf-5f75fc31173e
 
 
