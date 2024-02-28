@@ -31,7 +31,7 @@ Créer un programme MicroPython qui permet de gérer un thermostat à plusieurs 
 - Faire clignoter le mot "ALARM" à l'écran.
 - Faire défiler le mot "ALARM" sur l'écran.
 
-#Code: 
+# Code: 
 
 Je commence par importer les différentes librairies nécessaires pour le fonctionnement des modules, et je définis les noms des modules au bonnes pins du rapsberry
 ```
@@ -103,7 +103,7 @@ Le Loop est assez simple, "y" est la conversion linéaire du potentiomètre pour
         ALARM()
 ```
 
-#Vidéo:
+# Vidéo:
 
 https://github.com/hepl-degeer/smartcities/assets/159243839/529f9e38-019e-44a3-9ebf-5f75fc31173e
 
